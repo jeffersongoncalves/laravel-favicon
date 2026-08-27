@@ -1,3 +1,9 @@
+<div class="filament-hidden">
+
+![Laravel Favicon](https://raw.githubusercontent.com/jeffersongoncalves/laravel-favicon/master/art/jeffersongoncalves-laravel-favicon.png)
+
+</div>
+
 # Laravel Favicon
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-favicon.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/laravel-favicon)
