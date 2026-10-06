@@ -1,14 +1,14 @@
 <div class="filament-hidden">
 
-![Laravel Favicon](https://raw.githubusercontent.com/jeffersongoncalves/laravel-favicon/master/art/jeffersongoncalves-laravel-favicon.png)
+![Laravel Favicon](https://raw.githubusercontent.com/jeffersongoncalves/laravel-favicon/main/art/jeffersongoncalves-laravel-favicon.png)
 
 </div>
 
 # Laravel Favicon
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-favicon.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/laravel-favicon)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/jeffersongoncalves/laravel-favicon/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/jeffersongoncalves/laravel-favicon/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/jeffersongoncalves/laravel-favicon/fix-php-code-style-issues.yml?branch=master&label=code%20style&style=flat-square)](https://github.com/jeffersongoncalves/laravel-favicon/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/jeffersongoncalves/laravel-favicon/tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/jeffersongoncalves/laravel-favicon/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/jeffersongoncalves/laravel-favicon/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/jeffersongoncalves/laravel-favicon/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/laravel-favicon.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/laravel-favicon)
 
 This Laravel package serves a `favicon.ico` route, a `browserconfig.xml` for Windows tiles, and Apple/PNG touch icon `<head>` links from config-driven, Vite-resolved icon assets. It's the favicon/icon layer used standalone or underneath [`laravel-pwa-favicon`](https://github.com/jeffersongoncalves/laravel-pwa-favicon), which adds the PWA `manifest.json` on top.
